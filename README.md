@@ -1,5 +1,12 @@
 ### Keep Calm and Code On... 👋
 
+Programming Langusges -
+
++ core Python 3
++ core Javascript
++ C#
+
+
 <!--
 **SehgalNeeraj/SehgalNeeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
