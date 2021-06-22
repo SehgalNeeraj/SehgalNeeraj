@@ -2,8 +2,8 @@ Home for my code where I can build things that I want, the way I like.
 
 Programming Languages -
 
-+ core Python 3
-+ core Javascript
++ Python 3
++ Javascript
 + C#
 
 ### Keep Calm and Code On... 👋
