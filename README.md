@@ -1,6 +1,6 @@
 ### Keep Calm and Code On... 👋
 
-My own code repo where I can build things that i like.
+Home for my code where I can build things that i like.
 
 Programming Languages -
 
