@@ -1,4 +1,4 @@
-Home for my code where I can build things that i like.
+Home for my code where I can build things that I want, the way I like.
 
 Programming Languages -
 
