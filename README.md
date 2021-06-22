@@ -1,6 +1,8 @@
 ### Keep Calm and Code On... 👋
 
-Programming Langusges -
+My own code repo where I can build things that i like.
+
+Programming Languages -
 
 + core Python 3
 + core Javascript
