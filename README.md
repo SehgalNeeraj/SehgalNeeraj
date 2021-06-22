@@ -1,5 +1,3 @@
-### Keep Calm and Code On... 👋
-
 Home for my code where I can build things that i like.
 
 Programming Languages -
@@ -8,7 +6,7 @@ Programming Languages -
 + core Javascript
 + C#
 
-
+### Keep Calm and Code On... 👋
 <!--
 **SehgalNeeraj/SehgalNeeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
