@@ -3,7 +3,7 @@ Home for my code where I can build things that I want, the way I want.
 Programming Languages -
 
 + Python 3
-+ Javascript
++ Javascript / Node.js
 + C#
 
 ### Keep Calm and Code On... 👋
