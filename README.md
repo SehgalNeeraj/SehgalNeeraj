@@ -2,9 +2,8 @@ Home for my code where I can build things that I want, the way I want.
 
 Programming Languages -
 
-+ Javascript / Node.js
 + Python 3
-+ golang
++ C#
 
 ### Keep Calm and Code On... 👋
 <!--
